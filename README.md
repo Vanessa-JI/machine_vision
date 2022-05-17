@@ -1,5 +1,5 @@
 # Machine Vision 
-COMP0137 Machine Vision 
+COMP0137: Machine Vision 
 
 Topics covered: 
 - Probability Models and Distributions 
